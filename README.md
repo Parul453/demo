@@ -10,3 +10,6 @@ add - git add <-file name>
 commit - git commit -m "some message"
 push- git push origin main
 to all files at once use- git add .
+
+# changes made
+html and css file changed
